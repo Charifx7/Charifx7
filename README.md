@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Vue, Javascript, MongoDB**
+ 🌱 I’m currently learning **Vue, Javascript, Node.js, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://charif-portfolio.vercel.app](https://charif-portfolio.vercel.app/)
 
